@@ -1,0 +1,163 @@
+.tagline {
+    display: flex;
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../../images/619997.png');
+    background-size: 100%;
+    padding: 3rem;
+}
+
+.focus-text {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    padding: 12rem 0 12rem 8rem;
+}
+
+.heading-1 {
+    font-size: 5rem;
+    font-weight: 600;
+    color: white;
+    margin-bottom: 1.5rem;
+}
+
+.heading-2 {
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: #009efc;
+}
+
+.heading-3 {
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+
+.icons {
+    display: flex;
+    flex-direction: row;
+}
+
+.icon {
+    width: 3rem;
+    height: 3rem;
+    padding: 0.4rem;
+    margin: 0.5rem 1rem 0 0;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+.icon:hover {
+    background-color: white;
+}
+
+.platform {
+    position: absolute;
+    top: 41rem;
+    left: 6rem;
+    margin: 0 auto;
+    display: flex;
+}
+
+.link {
+    padding: 5rem 2rem;
+    color: white;
+    font-size: 2rem;
+    font-weight: 600;
+    width: 14rem;
+}
+
+.registration-app {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../../images/wp2968489-medical-doctor-wallpaper-hd.jpg');
+    background-size: cover;
+}
+
+.registration-app:hover {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 1) ), url('../../images/wp2968489-medical-doctor-wallpaper-hd.jpg');
+    background-size: cover;
+}
+
+.doctor-app {
+    background: linear-gradient( rgba(61, 139, 222, 0.5), rgba(61, 139, 222, 0.5) ), url('../../images/wp2386748-stethoscope-wallpapers.jpg');
+    background-size: cover;
+}
+
+.doctor-app:hover {
+    background: linear-gradient( rgba(61, 139, 222, 0.5), rgba(61, 139, 222, 1) ), url('../../images/wp2386748-stethoscope-wallpapers.jpg');
+    background-size: cover;
+}
+
+.diagnosis-app {
+    background: linear-gradient( rgba(106, 101, 192, 0.5), rgba(106, 101, 192, 0.5) ), url('../../images/wp2867747-doctor-wallpaper-hd.jpg');
+    background-size: cover;
+}
+
+.diagnosis-app:hover {
+    background: linear-gradient( rgba(106, 101, 192, 0.5), rgba(106, 101, 192, 1) ), url('../../images/wp2867747-doctor-wallpaper-hd.jpg');
+    background-size: cover;
+}
+
+.patient-app {
+    background: linear-gradient( rgba(124, 60, 172, 0.5), rgba(124, 60, 172, 0.5) ), url('../../images/wp2469685-doctor-wallpaper.jpg');
+    background-size: cover;
+}
+
+.patient-app:hover {
+    background: linear-gradient( rgba(124, 60, 172, 0.5), rgba(124, 60, 172, 1) ), url('../../images/wp2469685-doctor-wallpaper.jpg');
+    background-size: cover;
+}
+
+.product {
+    color: #666666;
+    padding-top: 10rem;
+}
+
+.sub-heading {
+    font-size: 2.5rem;
+}
+
+.desc {
+    padding: 0 10rem;
+    font-size: 1.2rem;
+    line-height: 1.6rem;
+}
+
+.blog-button {
+    padding: 0.7rem 2rem;
+    border: 2px solid #666666;
+    color: #666666;
+    background-color: white;
+    font-size: 1.5rem;
+    font-weight: 800;
+    margin-bottom: 5rem;
+    margin-top: 1rem;
+}
+
+.blog-button:hover {
+    background-color: #666666;
+    color: white;
+}
+
+.features {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.feature {
+    display: flex;
+    flex-direction: column;
+    width: 28rem;
+    width: 33.34%;
+}
+
+.feature-desc {
+    padding: 0 2rem;
+    font-size: 1.5rem;
+    text-align: left;
+    line-height: 2rem;
+}
+
+.contact {
+    color: white;
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../../images/ani-kolleshi-7jjnJ-QA9fY-unsplash.jpg');
+    background-size: 100% 100%;
+    padding: 5rem;
+}
