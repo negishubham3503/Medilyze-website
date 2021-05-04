@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Medilyze-website/static/css/main.ebbf39a7.chunk.css",
+    "main.js": "/Medilyze-website/static/js/main.1eff86c3.chunk.js",
+    "main.js.map": "/Medilyze-website/static/js/main.1eff86c3.chunk.js.map",
+    "runtime-main.js": "/Medilyze-website/static/js/runtime-main.4b4f9958.js",
+    "runtime-main.js.map": "/Medilyze-website/static/js/runtime-main.4b4f9958.js.map",
+    "static/js/2.de7534bd.chunk.js": "/Medilyze-website/static/js/2.de7534bd.chunk.js",
+    "static/js/2.de7534bd.chunk.js.map": "/Medilyze-website/static/js/2.de7534bd.chunk.js.map",
+    "index.html": "/Medilyze-website/index.html",
+    "static/css/main.ebbf39a7.chunk.css.map": "/Medilyze-website/static/css/main.ebbf39a7.chunk.css.map",
+    "static/js/2.de7534bd.chunk.js.LICENSE.txt": "/Medilyze-website/static/js/2.de7534bd.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/Medilyze-website/static/media/wp2968489-medical-doctor-wallpaper-hd.a3f2dd27.jpg",
+    "static/media/ante-samarzija-F7m3QZJ_4mg-unsplash.cab5d9cd.jpg": "/Medilyze-website/static/media/ante-samarzija-F7m3QZJ_4mg-unsplash.cab5d9cd.jpg",
+    "static/media/bofu-shaw-gs4EYZuLdlg-unsplash.6bdd1399.jpg": "/Medilyze-website/static/media/bofu-shaw-gs4EYZuLdlg-unsplash.6bdd1399.jpg",
+    "static/media/brandon-holmes-GofYo51GQ_4-unsplash.917e1ec9.jpg": "/Medilyze-website/static/media/brandon-holmes-GofYo51GQ_4-unsplash.917e1ec9.jpg",
+    "static/media/cdc-p33DqVXhWvs-unsplash.a42a320b.jpg": "/Medilyze-website/static/media/cdc-p33DqVXhWvs-unsplash.a42a320b.jpg",
+    "static/media/logo.d0ae9012.png": "/Medilyze-website/static/media/logo.d0ae9012.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b4f9958.js",
+    "static/js/2.de7534bd.chunk.js",
+    "static/css/main.ebbf39a7.chunk.css",
+    "static/js/main.1eff86c3.chunk.js"
+  ]
+}
